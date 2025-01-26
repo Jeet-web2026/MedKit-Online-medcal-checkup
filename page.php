@@ -14,16 +14,14 @@ while (have_posts()) {
             </div>
             <div class="row">
                 <div class="col-md-12">
-                    <div class="card mb-3 border-0 bg-transparent">
+                    <div class="card mb-3 border-0 bg-transparent shadow">
                         <div class="row g-0">
                             <div class="col-md-4">
-                                <img src="..." class="img-fluid rounded-start" alt="...">
+                                <img src="<?php echo get_theme_file_uri('/images/about-us.jpg') ?>" class="page-image" alt="page-image">
                             </div>
-                            <div class="col-md-8">
+                            <div class="col-md-8 px-3">
                                 <div class="card-body">
-                                    <h5 class="card-title">Card title</h5>
-                                    <p class="card-text"><?php echo the_content();?></p>
-                                    <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+                                    <p class="card-text"><?php echo the_content(); ?></p>
                                 </div>
                             </div>
                         </div>

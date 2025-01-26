@@ -50,6 +50,10 @@ ul li {
 .banner-content {
   padding-top: 8.5vh;
 }
+
+.banner-content .page-image{
+    height: 50vh;
+}
 /* banner end(page.php) */
 
 /* footer start */

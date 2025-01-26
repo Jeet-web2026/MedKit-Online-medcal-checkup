@@ -1,5 +1,5 @@
 <section class="stay-tuned px-3">
-    <div class="container-fluid p-5 d-flex justify-content-center align-items-center">
+    <div class="container-fluid p-5 pt-0 d-flex justify-content-center align-items-center">
         <div class="card border-0 rounded w-100 p-4" style="background-color: #0d6efd2b;">
             <div class="card-body justify-content-between d-flex">
                 <h4 class="text-capitalize fw-bold">stay tuned connected with MedKit</h4>
