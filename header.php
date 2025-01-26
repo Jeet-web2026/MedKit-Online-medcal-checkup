@@ -59,25 +59,25 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link text-capitalize me-2" href="<?php site_url('/') ?>">home</a>
+                            <a class="nav-link text-capitalize me-2 font-500 text-black" href="<?php site_url('/') ?>">home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-capitalize me-2" href="javascript:void(0)">about us</a>
+                            <a class="nav-link text-capitalize me-2 font-500 text-black" href="javascript:void(0)">about us</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-capitalize me-2" href="javascript:void(0)">services</a>
+                            <a class="nav-link text-capitalize me-2 font-500 text-black" href="javascript:void(0)">services</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-capitalize me-2" href="javascript:void(0)">our doctors</a>
+                            <a class="nav-link text-capitalize me-2 font-500 text-black" href="javascript:void(0)">our doctors</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-capitalize me-2" href="javascript:void(0)">appointment</a>
+                            <a class="nav-link text-capitalize me-2 font-500 text-black" href="javascript:void(0)">appointment</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-capitalize me-2" href="javascript:void(0)">pages</a>
+                            <a class="nav-link text-capitalize me-2 font-500 text-black" href="javascript:void(0)">pages</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-capitalize" href="javascript:void(0)">contact</a>
+                            <a class="nav-link text-capitalize font-500 text-black" href="javascript:void(0)">contact</a>
                         </li>
                     </ul>
                 </div>
