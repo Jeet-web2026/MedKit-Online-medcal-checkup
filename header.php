@@ -20,7 +20,7 @@
 </head>
 
 <body>
-    <header class="px-5 bg-light shadow">
+    <header class="px-5 bg-light shadow fixed-top">
         <!-- top-nav -->
         <nav class="navbar navbar-expand-lg">
             <div class="container-fluid">

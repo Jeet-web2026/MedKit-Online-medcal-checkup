@@ -46,6 +46,12 @@ ul li {
 }
 /* navbar end */
 
+/* banner start(page.php) */
+.banner-content {
+  padding-top: 8.5vh;
+}
+/* banner end(page.php) */
+
 /* footer start */
 .footer .logo-img {
   height: 8vh;
