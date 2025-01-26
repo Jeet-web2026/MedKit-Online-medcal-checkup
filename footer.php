@@ -18,14 +18,38 @@
     <div class="container-fluid px-5">
         <div class="row">
             <div class="col-md-3">
-                <h5 class="text-capitalize fs-5">quick links</h5>
+                <h5 class="text-capitalize fs-5 mb-3">quick links</h5>
                 <ul>
-                    <li></li>
+                    <li class="text-capitalize mb-2">home</li>
+                    <li class="text-capitalize mb-2">about us</li>
+                    <li class="text-capitalize mb-2">services</li>
+                    <li class="text-capitalize">contact</li>
                 </ul>
             </div>
-            <div class="col-md-3"></div>
-            <div class="col-md-3"></div>
-            <div class="col-md-3"></div>
+            <div class="col-md-3">
+                <h5 class="text-capitalize fs-5 mb-3">other links</h5>
+                <ul>
+                    <li class="text-capitalize mb-2">job vacancy</li>
+                    <li class="text-capitalize mb-2">charity programs</li>
+                    <li class="text-capitalize mb-2">privacy & policy</li>
+                    <li class="text-capitalize">terms of use</li>
+                </ul>
+            </div>
+            <div class="col-md-3">
+                <h5 class="text-capitalize fs-5 mb-3">contact info</h5>
+                <ul>
+                    <li class="text-capitalize mb-2"><i class="fa-solid fa-location-dot me-2 text-primary"></i>c-452, ramdashatti, garden-reach, kolkata: 700024</li>
+                    <li class="text-capitalize mb-2"><i class="fa-solid fa-phone me-2 text-primary"></i>+91 9163715179</li>
+                    <li><i class="fa-solid fa-envelope me-2 text-primary"></i>jeetnath2110@gmail.com</li>
+                </ul>
+            </div>
+            <div class="col-md-3">
+                <h5 class="text-capitalize fs-5 mb-3">make an appointment</h5>
+                <ul>
+                    <li class="text-capitalize mb-2"><i class="fa-solid fa-location-dot me-2 text-primary"></i>c-452, ramdashatti, garden-reach, kolkata: 700024</li>
+                    <li><i class="fa-solid fa-envelope me-2 text-primary"></i>jeetnath2110@gmail.com</li>
+                </ul>
+            </div>
         </div>
     </div>
 </footer>
