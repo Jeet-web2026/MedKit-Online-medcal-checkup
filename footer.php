@@ -16,8 +16,8 @@
 </section>
 <footer class="footer px-3">
     <div class="container-fluid px-5">
-        <div class="row">
-            <div class="col-md-3">
+        <div class="row border-bottom pb-3">
+            <div class="col-md-2">
                 <h5 class="text-capitalize fs-5 mb-3">quick links</h5>
                 <ul>
                     <li class="text-capitalize mb-2">home</li>
@@ -43,12 +43,23 @@
                     <li><i class="fa-solid fa-envelope me-2 text-primary"></i>jeetnath2110@gmail.com</li>
                 </ul>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-4">
                 <h5 class="text-capitalize fs-5 mb-3">make an appointment</h5>
                 <ul>
-                    <li class="text-capitalize mb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ea, quod repellendus</li>
+                    <li class="text-capitalize mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ea, quod repellendus</li>
                     <a href="javascript:void(0)" class="px-3 py-2 bg-primary text-light rounded"><i class="fa-solid fa-phone me-2 text-light"></i>+91 9163715179</a>
                 </ul>
+            </div>
+        </div>
+        <div class="row py-3 align-items-center">
+            <div class="col-md-6">
+                <div class="d-flex justify-content-between align-items-center">
+                    <a class="fw-bold text-dark fs-2" href=""><img src="<?php echo get_theme_file_uri('/images/logo.png') ?>" alt="logo-img" class="logo-img">Medkit</a>
+                    <p class="text-capitalize">medKit | health & medical institute govern by west bengal.</p>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <p class="text-capitalize float-end">copyright @ <?php echo date('Y')?> | all rights reserved</p>
             </div>
         </div>
     </div>
