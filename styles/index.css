@@ -24,8 +24,20 @@ a {
   margin: 0 !important;
 }
 
-.font-500{
-    font-weight: 500;
+.font-500 {
+  font-weight: 500;
+}
+
+.row {
+  --bs-gutter-x: 0rem;
+}
+
+ul {
+  padding-left: 0px;
+}
+
+ul li {
+  list-style: none;
 }
 
 /* navbar start */
