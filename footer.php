@@ -46,8 +46,8 @@
             <div class="col-md-3">
                 <h5 class="text-capitalize fs-5 mb-3">make an appointment</h5>
                 <ul>
-                    <li class="text-capitalize mb-2"><i class="fa-solid fa-location-dot me-2 text-primary"></i>c-452, ramdashatti, garden-reach, kolkata: 700024</li>
-                    <li><i class="fa-solid fa-envelope me-2 text-primary"></i>jeetnath2110@gmail.com</li>
+                    <li class="text-capitalize mb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ea, quod repellendus</li>
+                    <a href="javascript:void(0)" class="px-3 py-2 bg-primary text-light rounded"><i class="fa-solid fa-phone me-2 text-light"></i>+91 9163715179</a>
                 </ul>
             </div>
         </div>
